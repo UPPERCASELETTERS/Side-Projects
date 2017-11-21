@@ -1,0 +1,12 @@
+Gasbuddy.com Gas Price Monitor Web Application (aka Gas Price Bot)
+• Work in progress side project developed with Java, Spring Web MVC, JSP, XPath, RESTful APIs, SQL, JavaScript, jQuery, Ajax, HTML, Bootstrap, CSS, and potentially hosted by Heroku or locally
+• Allows a user to setup automated monitors that scrapes gas price data from GasBuddy for a desired gas station, polling interval, and duration in order to save gas price data to a database to be reviewed by the user in a useful format
+• The goal is to develop a single page web application for desktops and use PhoneGap to package it as a mobile application
+
+Time Logger Called Clockr: 
+• Work in progress personal project developed with Java, Spring Web MVC, JSP, SQL, Bootstrap, and Heroku
+• Tracks hours spent studying and practicing programming with a clock-in/clock-out feature
+
+Web Application Called National Park Geek:
+• Finished project developed with Java, Spring Web MVC, JSP, SQL, Bootstrap, and hosted on Heroku
+• Displays parks that link to a detail page and contains a survey that’s saved to a database to determine the most popular park
